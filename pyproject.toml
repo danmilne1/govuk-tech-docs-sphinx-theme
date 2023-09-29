@@ -21,7 +21,7 @@ include = [
 
 [tool.poetry.dependencies]
 python = "^3.6.1"
-Sphinx = "^4.0.2"
+Sphinx = "^6.0.0"
 
 [tool.poetry.dev-dependencies]
 coverage = "^5.4"
